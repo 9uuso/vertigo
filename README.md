@@ -1,5 +1,6 @@
 vertigo [![wercker status](https://app.wercker.com/status/e1f07b85320f902313d32fec503c5017/s/master "wercker status")](https://app.wercker.com/project/bykey/e1f07b85320f902313d32fec503c5017) [![Gobuild Download](https://img.shields.io/badge/gobuild-download-green.svg?style=flat)](http://gobuild.io/github.com/9uuso/vertigo) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/9uuso/vertigo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 =======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/9uuso/vertigo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Note: Vertigo is **under development** and things may still break apart.
 
